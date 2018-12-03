@@ -1,2 +1,0 @@
-# gojeh
-Created with CodeSandbox
